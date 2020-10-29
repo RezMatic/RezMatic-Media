@@ -1,0 +1,219 @@
+.head-line{
+	font-size:60px;
+}
+
+.slide-1{
+	background:url(../images/banner-1.html);
+	background-repeat:no-repeat;
+	background-size: cover;
+   background-position: center center;
+   height:96vh;
+}
+.slide-2{
+	background:url(../images/banner-2.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+   background-position: center center;
+   height:96vh;
+}
+.slide-3{
+	background:url(../images/banner-3.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+   background-position: center center;
+   height:96vh;
+}
+.slide-4{
+	background:url(../images/banner-4.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+   background-position: center center;
+   height:96vh;
+   cursor:pointer
+}
+
+.slide-5{
+	background:url(../images/banner-4.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+   background-position: center center;
+   height:96vh;
+}
+
+
+.client-sec{
+	margin-bottom:1em;
+}
+.carousel-caption1{
+	position: absolute;
+    width: 100%;
+    top: 30%;
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 5em;
+	}
+	
+.carousel-caption2{
+	position: absolute;
+    width: 100%;
+    top: 30%;
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 1em;
+	}
+	
+.carousel-caption3{
+	position: absolute;
+    width: 100%;
+    top: 30%;
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 1em;
+	}
+	.carousel-caption4{
+	position: absolute;
+    width: 100%;
+    top: 20%;
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 1em;
+	
+	}
+	.carousel-caption5{
+	position: absolute;
+    width: 100%;
+    top: 30%;
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 1em;	
+	}
+	
+.carousel-caption {
+    right:0%;
+    left:0%;
+    padding-bottom:15%;
+}
+
+
+	
+h1{color:#fff;}
+
+.tp-button{
+transition: all 0.2s ease-out 0s; line-height: 45px; border-width: 0px; margin: 0px; padding: 8px 10px 10px; letter-spacing: 0px; font-size: 15px!important;background-color: #ca1300;outline:none;}
+
+@media screen and (max-width:768px){	
+
+	.carousel-caption {
+    right:0%;
+    left:0%;
+    padding-bottom:0%;
+	bottom: -1%;
+}	
+  .carousel-caption1 {    
+    top: 27%;  
+    padding-left: 45%;
+}
+.slide-1{
+	background:url(../images/banner-mob-5.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+   background-position: center center;
+   height:600px;
+   background-position-x: 52%;
+}
+.slide-2{
+	background:url(../images/banner-1.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+   background-position: center center;
+   height:600px;
+}
+.slide-3{
+	background:url(../images/banner-2.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+   background-position: center center;
+   height:600px;
+}
+.slide-4{
+	background:url(../images/banner-3.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+   background-position: center center;
+   height:600px;
+   cursor:pointer
+}
+.slide-5{
+	background:url(../images/banner-4.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+   background-position: center center;
+   height:600px;
+
+}
+.head-line {
+    font-size: 40px;
+}
+/* .ban-btn{
+	margin-top:1em;
+} */
+.client-sec{
+	text-align:center;
+}
+.client-img{
+margin-bottom: 1em;}
+}
+
+@media screen and (max-width:1440px){
+.item {
+    height: 72vh;
+}
+}
+
+@media screen and (max-width:1366px){
+.item {
+    height: 96vh;
+}
+}
+
+
+@media screen and (max-width:767px){
+	h1{font-size:20px;line-height:25px;}
+	
+	.carousel-caption1 {    
+    top:18%;
+    padding-left: 0;
+    text-align: right;
+    padding-right: 5px;
+}
+.head-line {
+  font-size: 20px;
+    line-height: 26px;
+}
+.head-line1 {
+  font-size: 20px;
+    line-height: 26px;
+}
+.headtext {
+    font-size: 15px!important;
+   
+}
+.tp-button{
+	margin-top:1em;
+}
+/*#fh5co-logo img{
+	width:80px;
+}*/
+}
+
+@media screen and (max-width:375px){
+	h1{font-size:18px;line-height:22px}
+}
+
+@media screen and (max-width:360px){
+	h1{font-size:17px;line-height:21px;}
+}
+
+@media screen and (max-width:325px){
+	h1{font-size:15px;line-height:20px}
+}
